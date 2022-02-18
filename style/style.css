@@ -1,0 +1,21 @@
+.btn {
+    /* margin-left: 100px ; */
+    margin-top: 1rem;
+}
+.income-error{
+    color: red;
+    display: none;
+}
+.saving-error{
+    color: red;
+    display: none;
+}
+.saveing-input {
+    padding: 3.9rem 4rem;
+    background-color: #ea00ff7a;
+}
+
+.remaining-blnc{
+    padding: 7rem 4rem;
+    background-color: #4324a883;
+}
